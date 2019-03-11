@@ -1,0 +1,116 @@
+{
+    "id": 12345678,
+    "user_id": 34243,
+    "items": [
+        {
+            "name": "Coca Cola 0.5",
+            "price": 2.7,
+            "quantity": 3,
+            "discount": 0.1,
+            "options": [
+                {
+                    "name": "Ice",
+                    "supplement": 1,
+                    "price": 0
+                },
+                {
+                    "name": "tube",
+                    "supplement": 1,
+                    "price": 0
+                },
+                {
+                    "name": "Topping",
+                    "supplement": 0,
+                    "price": 1
+                }
+            ],
+            "active": 1
+        },
+        {
+            "name": "French fries",
+            "price": 3.5,
+            "quantity": 2,
+            "discount": 0,
+            "options": [
+                {
+                    "name": "Ketchup",
+                    "supplement": 0,
+                    "price": 0.5
+                }
+            ],
+            "active": 1
+        },
+        {
+            "name": "French fries",
+            "price": 3.5,
+            "quantity": 1,
+            "discount": 0,
+            "options": [
+                {
+                    "name": "Cheese sauce",
+                    "supplement": 0,
+                    "price": 0.5
+                }
+            ],
+            "active": 1
+        },
+        {
+            "name": "Big Mac",
+            "price": 6.5,
+            "quantity": 1,
+            "discount": 0.2,
+            "options": [],
+            "active": 1
+        },
+        {
+            "name": "Big Tasty",
+            "price": 9.9,
+            "quantity": 1,
+            "discount": 0.1,
+            "options": [
+                {
+                    "name": "Cheese",
+                    "supplement": 0,
+                    "price": 1.1
+                }
+            ],
+            "active": 1
+        },
+        {
+            "name": "Big Tasty",
+            "price": 9.9,
+            "quantity": 1,
+            "discount": 0.1,
+            "options": [
+                {
+                    "name": "Cheese",
+                    "supplement": 0,
+                    "price": 1.1
+                },
+                {
+                    "name": "Bacon",
+                    "supplement": 0,
+                    "price": 2
+                },
+                {
+                    "name": "Without onion",
+                    "supplement": 1,
+                    "price": 0
+                }
+            ],
+            "active": 1
+        },
+        {
+            "name": "Choco muffin",
+            "price": 3.45,
+            "quantity": 3,
+            "discount": 0.15,
+            "options": [],
+            "active": 1
+        }
+    ],
+    "status": 1,
+    "insert_date": 1542872343,
+    "close_date": 1542873000,
+    "close_reason": "payed"
+}
